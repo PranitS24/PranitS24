@@ -1,7 +1,7 @@
 ![123](https://user-images.githubusercontent.com/118627209/202893229-18d883ff-3999-4171-83d3-9ce78c3dd2c9.png)
 
 <h1 align="center">Hi 👋, I'm Pranit Siddam</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A Passionate Student of CyberSecurity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranits24&label=Profile%20views&color=0e75b6&style=flat" alt="pranits24" /> </p>
 
